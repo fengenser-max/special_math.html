@@ -1,0 +1,317 @@
+{
+  "name": "stary purple",
+  "description": "stary purple",
+  "version": "1",
+  "authors": [
+    {
+      "name": "aven",
+      "id": "avenquaven"
+    }
+  ],
+  "semanticColors": {
+    "BACKGROUND_ACCENT": [
+      "#C800FF"
+    ],
+    "BACKGROUND_BRAND": [
+      "#C800FF"
+    ],
+    "MENTION_FOREGROUND": [
+      "#C800FF"
+    ],
+    "TEXT_LINK": [
+      "#C800FF"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#C800FF"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#460066"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#7A2D8F"
+    ],
+    "CHANNEL_ICON": [
+      "#7A2D8F"
+    ],
+    "HEADER_SECONDARY": [
+      "#7A2D8F"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#7A2D8F"
+    ],
+    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+      "#7A2D8F"
+    ],
+    "TEXT_MUTED": [
+      "#7A2D8F"
+    ],
+    "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
+      "#080808"
+    ],
+    "CHAT_BACKGROUND": [
+      "#080808"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#080808"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#080808"
+    ],
+    "BG_BASE_PRIMARY": [
+      "#080808"
+    ],
+    "HOME_BACKGROUND": [
+      "#080808"
+    ],
+    "STATUS_DANGER_TEXT": [
+      "#080808"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#1C1C1C"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#1C1C1C"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#1C1C1C"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#1C1C1C"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#1C1C1C"
+    ],
+    "BACKGROUND_SURFACE_RAISED": [
+      "#1C1C1C"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#1C1C1C"
+    ],
+    "BG_BASE_SECONDARY": [
+      "#1C1C1C"
+    ],
+    "BG_BASE_TERTIARY": [
+      "#1C1C1C"
+    ],
+    "BG_SURFACE_OVERLAY": [
+      "#1C1C1C"
+    ],
+    "BG_SURFACE_OVERLAY_TMP": [
+      "#1C1C1C"
+    ],
+    "BG_SURFACE_RAISED": [
+      "#1C1C1C"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#1C1C1C"
+    ],
+    "CARD_SECONDARY_BG": [
+      "#1C1C1C"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#1C1C1C"
+    ],
+    "EMBED_BACKGROUND": [
+      "#1C1C1C"
+    ],
+    "INPUT_BACKGROUND_DEFAULT": [
+      "#1C1C1C"
+    ],
+    "KEYBOARD": [
+      "#1C1C1C"
+    ],
+    "PANEL_BG": [
+      "#1C1C1C"
+    ],
+    "POLLS_NORMAL_FILL_HOVER": [
+      "#1C1C1C"
+    ],
+    "POLLS_NORMAL_IMAGE_BACKGROUND": [
+      "#1C1C1C"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+      "#1C1C1C"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
+      "#1C1C1C"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+      "#1C1C1C"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#1C1C1C"
+    ],
+    "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+      "#1C1C1C"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#1C1C1C"
+    ],
+    "HEADER_PRIMARY": [
+      "#FEBDFF"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#FEBDFF"
+    ],
+    "INTERACTIVE_TEXT_DEFAULT": [
+      "#FEBDFF"
+    ],
+    "REDESIGN_CHANNEL_NAME_TEXT": [
+      "#FEBDFF"
+    ],
+    "TEXT_DEFAULT": [
+      "#FEBDFF"
+    ],
+    "TEXT_NORMAL": [
+      "#FEBDFF"
+    ],
+    "TEXT_PRIMARY": [
+      "#FEBDFF"
+    ],
+    "TEXT_STRONG": [
+      "#FEBDFF"
+    ],
+    "ANDROID_RIPPLE": [
+      "#5b2a82"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "rgba(114,0,0,0.1)"
+    ],
+    "BACKGROUND_MENTIONED_HOVER": [
+      "rgba(170,0,0,0.1)"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#FFFFFF0D"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#FFFFFF12"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#FFFFFF14"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#FFFFFF0F"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#FFFFFF1A"
+    ],
+    "BACKGROUND_MODIFIER_ACCEPT": [
+      "#43b58133"
+    ],
+    "BACKGROUND_MODIFIER_ACCEPT_HOVER": [
+      "#43b5814d"
+    ],
+    "BACKGROUND_MOD_MUTED": [
+      "#121214"
+    ],
+    "BG_BACKDROP": [
+      "#000000b2"
+    ],
+    "BORDER_FAINT": [
+      "#FFFFFF12"
+    ],
+    "BORDER_SUBTLE": [
+      "#FFFFFF1C"
+    ],
+    "BORDER_STRONG": [
+      "#FFFFFF26"
+    ],
+    "REDESIGN_BUTTON_DANGER_BACKGROUND": [
+      "#7f007b"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BORDER": [
+      "#FFFFFF1A"
+    ],
+    "SPOILER_HIDDEN_BACKGROUND": [
+      "#000000"
+    ],
+    "STATUS_DANGER": [
+      "#7f007b"
+    ],
+    "STATUS_DANGER_BACKGROUND": [
+      "#7f007b"
+    ],
+    "TEXT_SECONDARY": [
+      "#d79dff"
+    ]
+  },
+  "rawColors": {
+    "BRAND_200": "#C800FF",
+    "BRAND_260": "#C800FF",
+    "BRAND_300": "#C800FF",
+    "BRAND_330": "#C800FF",
+    "BRAND_345": "#C800FF",
+    "BRAND_360": "#C800FF",
+    "BRAND_400": "#C800FF",
+    "BRAND_430": "#C800FF",
+    "BRAND_460": "#C800FF",
+    "BRAND_500": "#C800FF",
+    "BRAND_530": "#C800FF",
+    "BRAND_600": "#C800FF",
+    "BRAND_630": "#C800FF",
+    "BRAND_660": "#C800FF",
+    "BRAND_700": "#C800FF",
+    "PLUM_3": "#C800FF",
+    "PLUM_15": "#C800FF",
+    "PRIMARY_300": "#C800FF",
+    "PRIMARY_360": "#C800FF",
+    "PRIMARY_500": "#C800FF",
+    "PRIMARY_530": "#C800FF",
+    "BRAND_560": "#460066",
+    "PRIMARY_400": "#460066",
+    "PLUM_9": "#7A2D8F",
+    "PLUM_10": "#7A2D8F",
+    "PLUM_11": "#7A2D8F",
+    "PLUM_13": "#7A2D8F",
+    "PRIMARY_730": "#7A2D8F",
+    "ROLE_DEFAULT": "#7A2D8F",
+    "WHITE_630": "#7A2D8F",
+    "PLUM_17": "#080808",
+    "PLUM_20": "#080808",
+    "PLUM_24": "#080808",
+    "PLUM_25": "#080808",
+    "PRIMARY_600": "#080808",
+    "PRIMARY_DARK_700": "#080808",
+    "PRIMARY_DARK_800": "#080808",
+    "PLUM_16": "#1C1C1C",
+    "PLUM_19": "#1C1C1C",
+    "PLUM_21": "#1C1C1C",
+    "PLUM_22": "#1C1C1C",
+    "PRIMARY_460": "#1C1C1C",
+    "PRIMARY_630": "#1C1C1C",
+    "PRIMARY_660": "#1C1C1C",
+    "PRIMARY_700": "#1C1C1C",
+    "PRIMARY_DARK_600": "#1C1C1C",
+    "PRIMARY_DARK_630": "#1C1C1C",
+    "PRIMARY_DARK_660": "#1C1C1C",
+    "BRAND_730": "#FEBDFF",
+    "PLUM_1": "#FEBDFF",
+    "PLUM_4": "#FEBDFF",
+    "PLUM_6": "#FEBDFF",
+    "PRIMARY_100": "#FEBDFF",
+    "PRIMARY_200": "#FEBDFF",
+    "PRIMARY_330": "#FEBDFF",
+    "PRIMARY_DARK_200": "#FEBDFF",
+    "WHITE_500": "#FEBDFF",
+    "BLACK_500": "#000000b2",
+    "PLUM_18": "#101012",
+    "PRIMARY_645": "#101012",
+    "PRIMARY_800": "#101012",
+    "GREEN_500": "#43b581",
+    "RED_500": "#7f007b",
+    "ORANGE_500": "#faa61a",
+    "YELLOW_500": "#faa61a"
+  },
+  "plus": {
+    "version": 0,
+    "customOverlays": true,
+    "iconpack": "rosiecord-plumpy"
+  },
+  "spec": 2,
+  "background": {
+    "url": "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fwww.pixelstalk.net%2Fwp-content%2Fuploads%2Fimages3%2FStar-Wallpaper-for-iPhone-5.jpg&sp=1791059620Tf3d092033e193296436230c4e5e4e120d60da24f7b626a387a1ebb8b2b6167f1",
+    "alpha": 0.56,
+    "size": "cover",
+    "position": "center"
+  }
+}
